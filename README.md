@@ -8,13 +8,13 @@ My first repository
 ## Staring:
 1. Brad Pitt
 2. Eric Bana
-3.Orlando Bloom
-4.Diane Kruger
-5.Brian Cox
-6.Sean Bean
-7.Rose Byrne
-8.Brendan Gleeson
-9.Peter O'Toole
+3. Orlando Bloom
+4. Diane Kruger
+5. Brian Cox
+6. Sean Bean
+7. Rose Byrne
+8. Brendan Gleeson
+9. Peter O'Toole
 
 
 
