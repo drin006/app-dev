@@ -2,9 +2,8 @@
 My first repository
 
 # TROY(FILM)
-![Uploading blob.jfif…]()
 
-![TROY](blob.jpg)
+![TROY](https://www.bing.com/images/blob?bcid=ryzitLvg1P0ENg)
 
 ## Staring:
 1. Brad Pitt
