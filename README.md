@@ -6,15 +6,15 @@ My first repository
 ![](https://www.bing.com/images/blob?bcid=ryzitLvg1P0ENg.jpg)
 
 ## Staring:
-Brad Pitt
-Eric Bana
-Orlando Bloom
-Diane Kruger
-Brian Cox
-Sean Bean
-Rose Byrne
-Brendan Gleeson
-Peter O'Toole
+1.Brad Pitt
+2.Eric Bana
+3.Orlando Bloom
+4.Diane Kruger
+5.Brian Cox
+6.Sean Bean
+7.Rose Byrne
+8.Brendan Gleeson
+9.Peter O'Toole
 
 
 
