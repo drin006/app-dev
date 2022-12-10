@@ -3,7 +3,7 @@ My first repository
 
 # TROY(FILM)
 
-![alt text](https://www.bing.com/images/blob?bcid=ryzitLvg1P0ENg.jpeg)
+![](https://www.bing.com/images/blob?bcid=ryzitLvg1P0ENg.jpg)
 
 ## Staring:
 Brad Pitt
