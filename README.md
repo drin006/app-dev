@@ -6,8 +6,8 @@ My first repository
 ![](https://www.bing.com/images/blob?bcid=ryzitLvg1P0ENg.jpg)
 
 ## Staring:
-1.Brad Pitt
-2.Eric Bana
+1. Brad Pitt
+2. Eric Bana
 3.Orlando Bloom
 4.Diane Kruger
 5.Brian Cox
